@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+
+label.currency-label {
+    margin-right: 0.5em;
+}
